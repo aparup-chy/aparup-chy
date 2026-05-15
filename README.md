@@ -12,7 +12,7 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aparup-chowdhury)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aparupchowdhury79@gmail.com)
+<a href="https://github.com/aparup-chy/YOUR-REPO-NAME"><img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=flat&logo=github&logoColor=white"/></a>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aparup-chy)
 
 </div>
@@ -40,18 +40,6 @@ class AparupChowdhury:
 <table>
   <tr>
     <td width="50%">
-      <h3>🧠 Dementia Early Detection via Parkinson's MRI</h3>
-      <p>Undergraduate thesis — two-phase deep learning framework predicting dementia onset <strong>2–5 years before symptoms</strong>. Benchmarked 5 × 3D CNN architectures on PPMI MRI data.</p>
-      <p>
-        <strong>Best Model:</strong> Inception-V3 &nbsp;|&nbsp; <strong>AUC:</strong> 0.8357 &nbsp;|&nbsp; <strong>Recall:</strong> 95%
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
       <h3>🎵 Resonance — Music Collaboration Platform</h3>
       <p>Full-stack platform connecting <strong>artists, studios & enthusiasts</strong> with studio booking, instrument marketplace & collaboration tools. Features real-time notifications and role-based admin controls.</p>
       <p>
@@ -70,6 +58,7 @@ class AparupChowdhury:
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
       </p>
+      <a href="https://github.com/aparup-chy/Non-Deterministic-Unsupervised-Neural-Network-Model-for-Clustering"><img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=flat&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%">
       <h3>🔐 Assembly String Encryption System</h3>
@@ -77,6 +66,7 @@ class AparupChowdhury:
       <p>
         <img src="https://img.shields.io/badge/Assembly-654FF0?style=flat&logo=assemblyscript&logoColor=white"/>
       </p>
+      <a href="https://github.com/aparup-chy/Assembly-String-Encryption-System"><img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=flat&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
