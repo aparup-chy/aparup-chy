@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Final+Year+CSE+@+BRAC+University;Deep+Learning+%26+Computer+Vision+Researcher;MERN+Stack+Developer;Building+AI-Driven+Solutions;President+%40+BRACU+Cultural+Club" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Final+Year+CSE+@+BRAC+University;Deep+Learning+%26+Computer+Vision+Researcher;Building+AI-Driven+Solutions;Former+President+%40+BRACU+Cultural+Club" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aparup-chowdhury)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aparupchowdhury79@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aparup-chy)
-[![Profile Views](https://komarev.com/ghpvc/?username=aparup-chy&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/aparup-chy)
 
 </div>
 
