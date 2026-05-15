@@ -12,7 +12,7 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aparup-chowdhury)
-<a href="mailto:aparupchowdhury79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/aparupchowdhury79@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://linkedin.com/in/aparup-chowdhury)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aparup-chy)
 
 </div>
