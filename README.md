@@ -166,7 +166,7 @@ class AparupChowdhury:
 
 <div align="center">
 
-** Let's Connect**
+** Connect**
 
 [![Gmail](https://img.shields.io/badge/aparupchowdhury79@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=aparupchowdhury79@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/aparup--chowdhury-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aparup-chowdhury)
