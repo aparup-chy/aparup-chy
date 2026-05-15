@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```python
 class AparupChowdhury:
@@ -35,12 +35,12 @@ class AparupChowdhury:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🎵 Resonance — Music Collaboration Platform</h3>
+    <td colspan="2">
+      <h3>Resonance — Music Collaboration Platform</h3>
       <p>Full-stack platform connecting <strong>artists, studios & enthusiasts</strong> with studio booking, instrument marketplace & collaboration tools. Features real-time notifications and role-based admin controls.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
@@ -51,7 +51,7 @@ class AparupChowdhury:
   </tr>
   <tr>
     <td width="50%">
-      <h3>🤖 Non-Deterministic Neural Clustering</h3>
+      <h3>Non-Deterministic Neural Clustering</h3>
       <p>Unsupervised neural network model for intelligent data clustering — enabling efficient pattern discovery from unlabelled datasets with enhanced adaptability and analytical accuracy.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -73,7 +73,7 @@ class AparupChowdhury:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -109,7 +109,7 @@ class AparupChowdhury:
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=aparup-chy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
@@ -126,7 +126,7 @@ class AparupChowdhury:
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 | Certificate | Platform |
 |---|---|
@@ -137,7 +137,7 @@ class AparupChowdhury:
 
 ---
 
-## 🎭 Beyond the Code
+## Beyond the Code
 
 <table>
   <tr>
@@ -166,9 +166,9 @@ class AparupChowdhury:
 
 <div align="center">
 
-**📫 Let's Connect**
+** Let's Connect**
 
-[![Email](https://img.shields.io/badge/aparupchowdhury79@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aparupchowdhury79@gmail.com)
+[![Gmail](https://img.shields.io/badge/aparupchowdhury79@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=aparupchowdhury79@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/aparup--chowdhury-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aparup-chowdhury)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
