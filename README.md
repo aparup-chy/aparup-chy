@@ -26,20 +26,11 @@ class AparupChowdhury:
     def __init__(self):
         self.name        = "Aparup Chowdhury"
         self.location    = "Dhaka, Bangladesh 🇧🇩"
-        self.university  = "BRAC University — B.Sc. CSE (Jan 2022 – Jun 2026)"
-        self.cgpa        = 3.41 / 4.00
+        self.university  = "BRAC University — B.Sc. CSE"
         self.research    = ["Deep Learning", "Computer Vision", "Medical Imaging"]
         self.stack       = ["MERN", "Python", "ML/DL Pipelines"]
-        self.leadership  = "President, BRACU Cultural Club (2025–2026)"
-        self.thesis      = "Early Dementia Detection via Parkinson's MRI — AUC 0.8357"
+        self.leadership  = "Fomer President, BRACU Cultural Club (2025–2026)"
         self.hobbies     = ["Chess ♟️", "Tabla 🥁", "Photography 📷"]
-
-    def currently(self):
-        return [
-            "🔬 Preparing thesis findings for journal publication",
-            "🎵 Building Resonance — a full-stack music platform",
-            "🧠 Exploring advanced CV architectures",
-        ]
 ```
 
 ---
