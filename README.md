@@ -152,15 +152,15 @@ class AparupChowdhury:
 <table>
   <tr>
     <td>🎯 <strong>Leadership</strong></td>
-    <td>President, BRAC University Cultural Club (Feb 2025 – Feb 2026)</td>
+    <td>Former President, BRAC University Cultural Club</td>
   </tr>
   <tr>
     <td>🎵 <strong>Music</strong></td>
-    <td>Enlisted Tabla Artist @ Bangladesh Betar, Chattogram (2018–2020)</td>
+    <td>Tabla Artist, Drummer</td>
   </tr>
   <tr>
     <td>♟️ <strong>Chess</strong></td>
-    <td>Avid player — strategy transfers to problem solving</td>
+    <td>Avid player - strategy transfers to problem solving</td>
   </tr>
   <tr>
     <td>📷 <strong>Photography</strong></td>
@@ -168,7 +168,7 @@ class AparupChowdhury:
   </tr>
   <tr>
     <td>🌐 <strong>Languages</strong></td>
-    <td>Bengali (Native) · English (Fluent) · Hindi (Conversational)</td>
+    <td>Bengali · English · Hindi</td>
   </tr>
 </table>
 
