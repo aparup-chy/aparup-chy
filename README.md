@@ -25,16 +25,12 @@
 
 ## 👨‍💻 About Me
 
-```python
-class AparupChowdhury:
-    def __init__(self):
-        self.name        = "Aparup Chowdhury"
-        self.location    = "Dhaka, Bangladesh 🇧🇩"
-        self.university  = "BRAC University — B.Sc. CSE"
-        self.research    = ["Deep Learning", "Computer Vision", "Medical Imaging"]
-        self.stack       = ["MERN", "Python", "ML/DL Pipelines"]
-        self.leadership  = "Former President, BRACU Cultural Club (2025–2026)"
-        self.hobbies     = ["Chess ♟️", "Tabla 🥁", "Photography 📷"]
+- 🎓 Final-year **B.Sc. CSE** student at **BRAC University** — graduating June 2026
+- 🔬 Researching **Deep Learning & Computer Vision** for early dementia detection via Parkinson's MRI
+- 💻 Full-Stack developer building with the **MERN stack** and **ML/DL pipelines**
+- 🏆 Former **President** of BRAC University Cultural Club (2025–2026)
+- 🌱 Currently preparing thesis findings for **journal publication**
+- ♟️ Chess player · 🥁 Tabla Artist · 📷 Photographer
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -99,7 +95,7 @@ class AparupChowdhury:
 
 <div align="center">
 
-**― Languages ―**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -107,7 +103,7 @@ class AparupChowdhury:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**― AI / ML / Data ―**
+**AI / ML / Data**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -116,7 +112,7 @@ class AparupChowdhury:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**― Full-Stack ―**
+**Full-Stack**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -124,7 +120,7 @@ class AparupChowdhury:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
-**― Tools & Creative ―**
+**Tools & Creative**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white)
@@ -153,12 +149,13 @@ class AparupChowdhury:
 
 <div align="center">
 
-| 📜 Certificate | 🏫 Platform |
-|:---|:---:|
-| Understanding Data Science | DataCamp |
-| Feature Engineering for Machine Learning in Python | DataCamp |
-| Supervised Learning with scikit-learn | DataCamp |
-| Reinforcement Learning in Python | DataCamp |
+![DataCamp](https://img.shields.io/badge/DataCamp-05192D?style=flat-square&logo=datacamp&logoColor=65FF8F)
+
+<br/>
+
+🎖️ &nbsp;**Understanding Data Science**&nbsp; · &nbsp;🎖️ &nbsp;**Feature Engineering for Machine Learning in Python**
+
+🎖️ &nbsp;**Supervised Learning with scikit-learn**&nbsp; · &nbsp;🎖️ &nbsp;**Reinforcement Learning in Python**
 
 </div>
 
@@ -168,13 +165,11 @@ class AparupChowdhury:
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| 🎯 | **Leadership** — Former President, BRAC University Cultural Club |
-| 🎵 | **Music** — Tabla Artist & Drummer |
-| ♟️ | **Chess** — Avid player; strategy transfers to problem solving |
-| 📷 | **Photography** — Visual storytelling through the lens |
-| 🌐 | **Languages** — Bengali · English · Hindi |
+🎯 &nbsp;**Leadership**&nbsp; — Former President, BRAC University Cultural Club
+
+🎵 &nbsp;**Music**&nbsp; — Tabla Artist · Drummer · Cajon Player &nbsp;|&nbsp; 📷 &nbsp;**Photography**&nbsp; — Visual storytelling through the lens
+
+♟️ &nbsp;**Chess**&nbsp; — Strategy on the board transfers to problem solving &nbsp;|&nbsp; 🌐 &nbsp;**Languages**&nbsp; — Bengali · English · Hindi
 
 </div>
 
